@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+  color: white;
+}
+
+.progress{
+  font-size: 30px;
+}
+
+p,input{
+  font-size: 25px;
+}
+
+.upload{
+  font-size: 20px;
+  display: inline-block;
+  border: 1px solid #999;
+  border-radius: 3px;
+  padding: 5px 8px;
+  outline: none;
+  white-space: nowrap;
+  cursor: pointer;
+  font-weight: 700;
+}
+
+.submit{
+  margin-top: 20px;
+  background-color: #6c3dbc; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 25px;
+}
+
